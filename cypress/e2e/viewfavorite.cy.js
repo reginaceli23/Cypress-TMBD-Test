@@ -23,7 +23,7 @@ cy.visit('https://www.themoviedb.org/u/daisy26/favorites');
 
 
 
-       
+    
     
 
 
